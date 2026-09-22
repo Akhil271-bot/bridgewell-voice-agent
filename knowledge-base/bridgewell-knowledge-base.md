@@ -8,6 +8,14 @@ Source of truth for the Bridgewell voice agent. Covers Westcliff University (USA
 
 Last compiled: September 2026, for academic year 2026–27.
 
+## INTAKE RULE — READ BEFORE ANSWERING ANY TIMING QUESTION
+
+Never volunteer that a university runs several intakes a year, and never suggest a student could start later. Talk about one intake: the one the student named, or the next one.
+
+If the student asks directly ("how many intakes are there?", "can I start in May?"), answer honestly, then bring them back to the nearest intake and the timeline: the university takes about two weeks to review an application, the visa about a month, funding about another month.
+
+Intake counts below are INTERNAL. They are here so the agent can answer a direct question truthfully — not to be offered up.
+
 ---
 
 # PART 1 — QUICK ANSWERS
@@ -24,7 +32,7 @@ Never recommend a programme before this is answered.
 ## Westcliff at a glance
 
 - US private university, Irvine, California. Approved by the California BPPE since 1993. Regionally accredited by **WSCUC**.
-- **6 intakes per year.** For the January intake, the application deadline is in **October**.
+- Intakes (INTERNAL, do not volunteer): 6 per year. For the January intake, the application deadline is in **October**.
 - **No GMAT, GRE or SAT** required at any level.
 - **A 3-year bachelor's degree is accepted** for master's and doctoral entry.
 - 9,079 students enrolled (Spring 2026), 103 nationalities, 10:1 student–faculty ratio.
@@ -130,7 +138,7 @@ All bachelor's are 4 years with a **3-year accelerated option**, at 24 credits p
 | Minimum academic | GPA 2.0 undergraduate, 2.5 graduate | High school diploma / bachelor's; Barcelona MBA asks 2:2 Honours |
 | English minimum, master's | IELTS 6.0 / TOEFL 79 | IELTS 6.5 / TOEFL 93 |
 | Online option | Every programme, 100% live online | Not offered |
-| Intakes | 6 per year | 4 per year for most programmes; DBA year-round |
+| Intakes (INTERNAL) | 6 per year | 4 per year for most programmes; DBA year-round |
 | Doctorate | DBA and EdD, all campuses and online | DBA, **Geneva only**, on campus |
 
 ---
@@ -292,7 +300,7 @@ Westcliff reports 89% job placement after graduation, a $87,500 average graduate
 
 ## Westcliff — Doctor of Business Administration (DBA)
 
-- **Length:** 3 years. **Credits:** 60. **Intakes:** 6 per year.
+- **Length:** 3 years. **Credits:** 60. **Intakes (INTERNAL, do not volunteer):** 6 per year.
 - **Tuition:** $48,000 total online ($800/credit), $55,200 total on campus ($920/credit).
 - **Where:** all six campuses plus online. Weekly and professional formats at Irvine; professional only at Santa Monica, San Francisco, Dallas, Orlando and Miami.
 - **Award:** Doctor of Business Administration, Westcliff University College of Business.
@@ -313,7 +321,7 @@ No maximum time-to-completion limit is published.
 
 ## Westcliff — Stackable DBA
 
-- **Length:** 3 years, same as the standard DBA. **Credits:** 60. **Intakes:** 6 per year.
+- **Length:** 3 years, same as the standard DBA. **Credits:** 60. **Intakes (INTERNAL, do not volunteer):** 6 per year.
 - **Tuition:** identical to the standard DBA — $48,000 online, $55,200 on campus. No additional time or cost.
 - **Where:** Irvine and online only.
 - **Award:** Doctor of Business Administration plus two doctoral certificates.
@@ -326,7 +334,7 @@ The same DBA, restructured so the student collects two doctoral certificates on 
 
 ## Westcliff — Doctor of Education (EdD)
 
-- **Length:** 4 years. **Credits:** 60. **Intakes:** 6 per year.
+- **Length:** 4 years. **Credits:** 60. **Intakes (INTERNAL, do not volunteer):** 6 per year.
 - **Tuition:** $48,000 total online, $55,200 total on campus. Per year on campus $16,560 at 18 credits.
 - **Where:** Irvine and online only. Weekly format.
 - **Award:** Doctor of Education in Leadership, Curriculum, and Instruction, Westcliff University College of Education.
@@ -351,7 +359,7 @@ Same 60 credits as the DBA, spread over four years instead of three. Ends in a s
 
 ## Westcliff — Master of Business Administration (MBA)
 
-- **Credits:** 36. **Load:** 18 credits/year. **1-year accelerated option.** **Intakes:** 6 per year.
+- **Credits:** 36. **Load:** 18 credits/year. **1-year accelerated option.** **Intakes (INTERNAL, do not volunteer):** 6 per year.
 - **Tuition:** $13,770/year online, $15,030/year on campus.
 - **Where:** all six campuses plus online. Weekly and professional at Irvine and Santa Monica; professional only at San Francisco, Dallas, Orlando and Miami.
 - Ranked the #2 largest MBA programme in Southern California.
@@ -364,7 +372,7 @@ Same 60 credits as the DBA, spread over four years instead of three. Ends in a s
 
 ## Westcliff — MS in Information Technology (MSIT)
 
-- **Credits:** 36. **1-year accelerated option.** **Intakes:** 6 per year.
+- **Credits:** 36. **1-year accelerated option.** **Intakes (INTERNAL, do not volunteer):** 6 per year.
 - **Tuition:** $13,770/year online, $15,030/year on campus.
 - **Where:** all six campuses plus online. Weekly and professional at Irvine; professional only elsewhere.
 
@@ -378,7 +386,7 @@ Note: Bridgewell's own enquiry-response email lists only five MSIT concentration
 
 ## Westcliff — MS in Computer Science (MSCS)
 
-- **Credits:** 36. **1-year accelerated option.** **Intakes:** 6 per year.
+- **Credits:** 36. **1-year accelerated option.** **Intakes (INTERNAL, do not volunteer):** 6 per year.
 - **Tuition:** $13,770/year online, $15,030/year on campus.
 - **Where:** all six campuses plus online.
 - **STEM-designated at degree level** — the 24-month OPT extension applies whichever concentration the student picks.
@@ -389,7 +397,7 @@ Note: Bridgewell's own enquiry-response email lists only five MSIT concentration
 
 ## Westcliff — MS in Engineering Management (MSEM)
 
-- **Credits:** 36. **1-year accelerated option.** **Intakes:** 6 per year.
+- **Credits:** 36. **1-year accelerated option.** **Intakes (INTERNAL, do not volunteer):** 6 per year.
 - **Tuition:** $13,770/year online, $15,030/year on campus.
 - **Where:** Irvine, Santa Monica, San Francisco, Dallas, Orlando plus online. **Not offered at Miami.**
 - **STEM-designated.**
@@ -399,7 +407,7 @@ Note: Bridgewell's own enquiry-response email lists only five MSIT concentration
 
 ## Westcliff — MA in TESOL
 
-- **Credits:** 36. **1-year accelerated option.** **Intakes:** 6 per year.
+- **Credits:** 36. **1-year accelerated option.** **Intakes (INTERNAL, do not volunteer):** 6 per year.
 - **Tuition:** $13,770/year online, $15,030/year on campus.
 - **Where:** Irvine (weekly format) and Miami, plus online. Miami is the only campus outside Irvine that carries it.
 - **One concentration:** Educational Technology (STEM).
@@ -450,7 +458,7 @@ The law school is **Western State College of Law at Westcliff University**, and 
 
 ## Westcliff — Bachelor of Business Administration (BBA)
 
-- **Length:** 4 years, 3-year accelerated option. **Credits:** 120 at 24/year. **Intakes:** 6 per year.
+- **Length:** 4 years, 3-year accelerated option. **Credits:** 120 at 24/year. **Intakes (INTERNAL, do not volunteer):** 6 per year.
 - **Tuition:** $11,760/year online, $19,128/year on campus.
 - **Where:** Irvine and Dallas, plus online. **Weekly format only** — the professional weekend format is not offered for the BBA.
 
@@ -462,7 +470,7 @@ Undergraduates must complete one academic year before becoming CPT-eligible.
 
 ## Westcliff — BS in Information Technology (BSIT)
 
-- **Length:** 4 years, 3-year accelerated option. **Credits:** 120. **Intakes:** 6 per year.
+- **Length:** 4 years, 3-year accelerated option. **Credits:** 120. **Intakes (INTERNAL, do not volunteer):** 6 per year.
 - **Tuition:** $11,760/year online, $19,128/year on campus.
 - **Where:** Irvine and Dallas, plus online. Weekly format only.
 - **STEM-designated at degree level** — every concentration carries the 24-month OPT extension.
@@ -473,7 +481,7 @@ Undergraduates must complete one academic year before becoming CPT-eligible.
 
 ## Westcliff — BS in Computer Science (BSCS)
 
-- **Length:** 4 years, 3-year accelerated option. **Credits:** 120. **Intakes:** 6 per year.
+- **Length:** 4 years, 3-year accelerated option. **Credits:** 120. **Intakes (INTERNAL, do not volunteer):** 6 per year.
 - **Tuition:** $11,760/year online, $19,128/year on campus.
 - **Where:** Irvine only, plus online. Weekly format. **Not offered at Dallas.**
 - **STEM-designated at degree level.**
@@ -484,7 +492,7 @@ Undergraduates must complete one academic year before becoming CPT-eligible.
 
 ## Westcliff — BA in Education
 
-- **Length:** 4 years, 3-year accelerated option. **Credits:** 120. **Intakes:** 6 per year.
+- **Length:** 4 years, 3-year accelerated option. **Credits:** 120. **Intakes (INTERNAL, do not volunteer):** 6 per year.
 - **Tuition:** $11,760/year online, $19,128/year on campus.
 - **Where:** Irvine only, plus online. Weekly format.
 
